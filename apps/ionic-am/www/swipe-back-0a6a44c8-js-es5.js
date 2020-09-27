@@ -2,9 +2,9 @@
   (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["swipe-back-0a6a44c8-js"], {
     /***/
     "../../node_modules/@ionic/core/dist/esm/swipe-back-0a6a44c8.js":
-    /*!*******************************************************************************!*\
-      !*** D:/dev/am3/am3/node_modules/@ionic/core/dist/esm/swipe-back-0a6a44c8.js ***!
-      \*******************************************************************************/
+    /*!***************************************************************************!*\
+      !*** E:/Dev/am3/node_modules/@ionic/core/dist/esm/swipe-back-0a6a44c8.js ***!
+      \***************************************************************************/
 
     /*! exports provided: createSwipeBackGesture */
 

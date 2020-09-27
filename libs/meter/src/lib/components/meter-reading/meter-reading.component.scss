@@ -1,0 +1,44 @@
+ion-card {
+  --background: rgb(224,103,123);
+  --background: linear-gradient(90deg, rgba(224,103,123,1) 0%, rgba(232,146,132,1) 50%, rgba(246,208,139,1) 100%); //#E0677B #E89284 #F6D08B
+  ion-card-header {
+    align-items: flex-end;    
+    ion-card-title {
+      --color: #FFFFFF;
+      font-size: 1.5em;
+    }
+    position: relative;
+    .contract-number {
+      color: #FFFFFF;
+      position: absolute;
+      right: 16px;
+      top: 20px;
+      font-weight: bold;
+    }
+  }
+  ion-card-content {
+    .content {
+      width: 100%;
+      display: flex;
+      color: #FFFFFF;
+      .current,
+      .previous {
+        .label {
+          font-size: .9em;
+        }
+        flex-grow: 1;
+      }
+      justify-content: stretch;
+      .current {
+        
+      }
+      .previous {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        align-items: flex-end;
+      }
+    }
+  
+  }
+}

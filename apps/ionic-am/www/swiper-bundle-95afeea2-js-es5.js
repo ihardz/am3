@@ -24,9 +24,9 @@
   (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["swiper-bundle-95afeea2-js"], {
     /***/
     "../../node_modules/@ionic/core/dist/esm/swiper.bundle-95afeea2.js":
-    /*!**********************************************************************************!*\
-      !*** D:/dev/am3/am3/node_modules/@ionic/core/dist/esm/swiper.bundle-95afeea2.js ***!
-      \**********************************************************************************/
+    /*!******************************************************************************!*\
+      !*** E:/Dev/am3/node_modules/@ionic/core/dist/esm/swiper.bundle-95afeea2.js ***!
+      \******************************************************************************/
 
     /*! exports provided: Swiper */
 

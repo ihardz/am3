@@ -3,6 +3,7 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { MetersComponent } from './pages';
 import { MeterRoutingModule } from './meter-routing.module';
+import { MeterReadingComponent } from './components';
 
 @NgModule({
   imports: [
@@ -11,7 +12,8 @@ import { MeterRoutingModule } from './meter-routing.module';
     MeterRoutingModule
   ],
   declarations: [
-    MetersComponent
+    MetersComponent,
+    MeterReadingComponent
   ],
   exports: [
     MetersComponent

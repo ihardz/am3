@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["am3-layout"],{
 
 /***/ "../../libs/layout/src/index.ts":
-/*!***********************************************!*\
-  !*** D:/dev/am3/am3/libs/layout/src/index.ts ***!
-  \***********************************************/
+/*!*******************************************!*\
+  !*** E:/Dev/am3/libs/layout/src/index.ts ***!
+  \*******************************************/
 /*! exports provided: LayoutModule */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -18,9 +18,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../libs/layout/src/lib/layout-routing.module.ts":
-/*!*******************************************************************!*\
-  !*** D:/dev/am3/am3/libs/layout/src/lib/layout-routing.module.ts ***!
-  \*******************************************************************/
+/*!***************************************************************!*\
+  !*** E:/Dev/am3/libs/layout/src/lib/layout-routing.module.ts ***!
+  \***************************************************************/
 /*! exports provided: LayoutRoutingModule */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -70,9 +70,9 @@ LayoutRoutingModule = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"])([
 /***/ }),
 
 /***/ "../../libs/layout/src/lib/layout.module.ts":
-/*!***********************************************************!*\
-  !*** D:/dev/am3/am3/libs/layout/src/lib/layout.module.ts ***!
-  \***********************************************************/
+/*!*******************************************************!*\
+  !*** E:/Dev/am3/libs/layout/src/lib/layout.module.ts ***!
+  \*******************************************************/
 /*! exports provided: LayoutModule */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -117,9 +117,9 @@ LayoutModule = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"])([
 /***/ }),
 
 /***/ "../../libs/layout/src/lib/tabs-layout/tabs-layout.component.scss":
-/*!*********************************************************************************!*\
-  !*** D:/dev/am3/am3/libs/layout/src/lib/tabs-layout/tabs-layout.component.scss ***!
-  \*********************************************************************************/
+/*!*****************************************************************************!*\
+  !*** E:/Dev/am3/libs/layout/src/lib/tabs-layout/tabs-layout.component.scss ***!
+  \*****************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -130,9 +130,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../libs/layout/src/lib/tabs-layout/tabs-layout.component.ts":
-/*!*******************************************************************************!*\
-  !*** D:/dev/am3/am3/libs/layout/src/lib/tabs-layout/tabs-layout.component.ts ***!
-  \*******************************************************************************/
+/*!***************************************************************************!*\
+  !*** E:/Dev/am3/libs/layout/src/lib/tabs-layout/tabs-layout.component.ts ***!
+  \***************************************************************************/
 /*! exports provided: TabsLayoutComponent */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -167,9 +167,9 @@ TabsLayoutComponent = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"])([
 /***/ }),
 
 /***/ "../../libs/shared/src/index.ts":
-/*!***********************************************!*\
-  !*** D:/dev/am3/am3/libs/shared/src/index.ts ***!
-  \***********************************************/
+/*!*******************************************!*\
+  !*** E:/Dev/am3/libs/shared/src/index.ts ***!
+  \*******************************************/
 /*! exports provided: SharedModule, PATHS */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -188,9 +188,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../libs/shared/src/lib/constants/index.ts":
-/*!*************************************************************!*\
-  !*** D:/dev/am3/am3/libs/shared/src/lib/constants/index.ts ***!
-  \*************************************************************/
+/*!*********************************************************!*\
+  !*** E:/Dev/am3/libs/shared/src/lib/constants/index.ts ***!
+  \*********************************************************/
 /*! exports provided: PATHS */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -205,9 +205,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../libs/shared/src/lib/constants/paths.ts":
-/*!*************************************************************!*\
-  !*** D:/dev/am3/am3/libs/shared/src/lib/constants/paths.ts ***!
-  \*************************************************************/
+/*!*********************************************************!*\
+  !*** E:/Dev/am3/libs/shared/src/lib/constants/paths.ts ***!
+  \*********************************************************/
 /*! exports provided: PATHS */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -224,9 +224,9 @@ const PATHS = {
 /***/ }),
 
 /***/ "../../libs/shared/src/lib/shared.module.ts":
-/*!***********************************************************!*\
-  !*** D:/dev/am3/am3/libs/shared/src/lib/shared.module.ts ***!
-  \***********************************************************/
+/*!*******************************************************!*\
+  !*** E:/Dev/am3/libs/shared/src/lib/shared.module.ts ***!
+  \*******************************************************/
 /*! exports provided: SharedModule */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -252,15 +252,15 @@ SharedModule = Object(tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"])([
 /***/ }),
 
 /***/ "../../node_modules/raw-loader/dist/cjs.js!../../libs/layout/src/lib/tabs-layout/tabs-layout.component.html":
-/*!************************************************************************************************************************************!*\
-  !*** D:/dev/am3/am3/node_modules/raw-loader/dist/cjs.js!D:/dev/am3/am3/libs/layout/src/lib/tabs-layout/tabs-layout.component.html ***!
-  \************************************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** E:/Dev/am3/node_modules/raw-loader/dist/cjs.js!E:/Dev/am3/libs/layout/src/lib/tabs-layout/tabs-layout.component.html ***!
+  \****************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("\n<ion-tabs>\n  <ion-tab-bar slot=\"bottom\">\n    <ion-tab-button [tab]=\"paths.METERS\">\n      <ion-icon name=\"speedometer-outline\"></ion-icon>\n      <ion-label>Meters</ion-label>\n      <ion-badge>!</ion-badge>\n    </ion-tab-button>\n\n    <ion-tab-button [tab]=\"paths.NEWS\">\n      <ion-icon name=\"newspaper-outline\"></ion-icon>\n      <ion-label>News</ion-label>\n    </ion-tab-button>\n\n    <ion-tab-button [tab]=\"paths.ACCOUNT\">\n      <ion-icon name=\"person-circle\"></ion-icon>\n      <ion-label>Account</ion-label>\n    </ion-tab-button>\n  </ion-tab-bar>\n</ion-tabs>");
+/* harmony default export */ __webpack_exports__["default"] = ("\r\n<ion-tabs>\r\n  <ion-tab-bar slot=\"bottom\">\r\n    <ion-tab-button [tab]=\"paths.METERS\">\r\n      <ion-icon name=\"speedometer-outline\"></ion-icon>\r\n      <ion-label>Meters</ion-label>\r\n      <ion-badge>!</ion-badge>\r\n    </ion-tab-button>\r\n\r\n    <ion-tab-button [tab]=\"paths.NEWS\">\r\n      <ion-icon name=\"newspaper-outline\"></ion-icon>\r\n      <ion-label>News</ion-label>\r\n    </ion-tab-button>\r\n\r\n    <ion-tab-button [tab]=\"paths.ACCOUNT\">\r\n      <ion-icon name=\"person-circle\"></ion-icon>\r\n      <ion-label>Account</ion-label>\r\n    </ion-tab-button>\r\n  </ion-tab-bar>\r\n</ion-tabs>");
 
 /***/ })
 

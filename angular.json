@@ -14,7 +14,10 @@
               "libs/layout/tsconfig.lib.json",
               "libs/layout/tsconfig.spec.json"
             ],
-            "exclude": ["**/node_modules/**", "!libs/layout/**/*"]
+            "exclude": [
+              "**/node_modules/**",
+              "!libs/layout/**/*"
+            ]
           }
         },
         "test": {
@@ -164,7 +167,9 @@
               "apps/ionic-am/tsconfig.spec.json",
               "apps/ionic-am/e2e/tsconfig.json"
             ],
-            "exclude": ["**/node_modules/**"]
+            "exclude": [
+              "**/node_modules/**"
+            ]
           }
         },
         "ionic-cordova-build": {
@@ -206,7 +211,10 @@
               "libs/meter/tsconfig.lib.json",
               "libs/meter/tsconfig.spec.json"
             ],
-            "exclude": ["**/node_modules/**", "!libs/meter/**/*"]
+            "exclude": [
+              "**/node_modules/**",
+              "!libs/meter/**/*"
+            ]
           }
         },
         "test": {
@@ -236,7 +244,10 @@
               "libs/news/tsconfig.lib.json",
               "libs/news/tsconfig.spec.json"
             ],
-            "exclude": ["**/node_modules/**", "!libs/news/**/*"]
+            "exclude": [
+              "**/node_modules/**",
+              "!libs/news/**/*"
+            ]
           }
         },
         "test": {
@@ -266,7 +277,10 @@
               "libs/account/tsconfig.lib.json",
               "libs/account/tsconfig.spec.json"
             ],
-            "exclude": ["**/node_modules/**", "!libs/account/**/*"]
+            "exclude": [
+              "**/node_modules/**",
+              "!libs/account/**/*"
+            ]
           }
         },
         "test": {
@@ -296,7 +310,10 @@
               "libs/shared/tsconfig.lib.json",
               "libs/shared/tsconfig.spec.json"
             ],
-            "exclude": ["**/node_modules/**", "!libs/shared/**/*"]
+            "exclude": [
+              "**/node_modules/**",
+              "!libs/shared/**/*"
+            ]
           }
         },
         "test": {

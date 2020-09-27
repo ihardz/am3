@@ -26,15 +26,19 @@
 @import '~@ionic/angular/css/flex-utils.css';
 
 ion-card {
-  border-radius: 2px;
+  border-radius: 1em;
 }
 
 input,
 ion-input {
-  background-color: #E2E7EC;
+  background-color: rgb(226, 231, 236, .3);
   border: 1px solid transparent;
-  border-radius: 2px;
+  border-radius: 1em;
+  padding-left: .5em;
+  padding-right: .5em;
   width: 100%;
+  outline: none;
+  font-weight: bold;
 }
 
 @mixin ion-input-mixin {

@@ -77,7 +77,8 @@
 
 
 
-  --ion-color-content-background: #EEF2F5;
+  --color-content-background: #EEF2F5;
+  --color-green: #33C4B3;
 }
 
 @mixin ion-input-mixin {
@@ -86,4 +87,14 @@
   --padding-end: 2px;
   --padding-bottom: 2px;
   --padding-start: 2px;
+}
+
+@font-face {
+  font-family: 'exotwo';
+  src: url("/assets/fonts/exotwo/exo2.ttf");
+}
+
+:root {
+  --ion-font-family: 'exotwo';
+ 
 }
